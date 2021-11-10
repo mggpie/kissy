@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Kissy
+Comment=The suckless terminal with some patches and love.
+Icon=utilities-terminal
+Exec=kissy
+Categories=System;TerminalEmulator
