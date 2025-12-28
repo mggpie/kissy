@@ -2,6 +2,8 @@
 
 ![Screenshot](https://i.postimg.cc/1RNFRP5F/kissy.jpg)
 
+## About
+
 A terminal emulator for X based on [st 0.8.4](https://st.suckless.org/), built to combine quality font rendering with image support similar to Kitty.
 
 > **Note:** This project is no longer maintained.
@@ -31,5 +33,7 @@ A terminal emulator for X based on [st 0.8.4](https://st.suckless.org/), built t
 ## Installation
 
 ```sh
-git clone https://github.com/mggpie/kissy && cd kissy && sudo make clean install
+git clone https://github.com/mggpie/kissy
+cd kissy
+sudo make clean install
 ```
