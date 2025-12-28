@@ -1,6 +1,8 @@
 # Kissy
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ![Screenshot](https://i.postimg.cc/1RNFRP5F/kissy.jpg)
 
