@@ -1,14 +1,16 @@
 # Kissy
 
-![Screenshot](https://i.postimg.cc/1RNFRP5F/kissy.jpg)
+![Kissy terminal](https://i.postimg.cc/1RNFRP5F/kissy.jpg "kissy terminal")
 
-Simple terminal emulator for X based on [st 0.8.4](https://st.suckless.org/), created to address the lack of terminals with quality font rendering and image display like Kitty.
+## About
+
+Kissy is a terminal emulator for X that was created to address the problem of finding a terminal emulator with quality font rendering and the ability to display images like Kitty. It is based on st 0.8.4.
 
 ## Features
 
 - Different name, so you don't have to overwrite st
 - Font that matches your system font
-- Emoji support (requires HarfBuzz)
+- Emoji support (requires harfbuzz)
 - Scrolling with just the mouse wheel (without an external program)
 - Background transparency (requires a compositor)
 - Better vertical alignment (centered)
@@ -22,16 +24,18 @@ Simple terminal emulator for X based on [st 0.8.4](https://st.suckless.org/), cr
 - More visually appealing text selection while using mouse/touchpad
 - Xresources support
 
-## Installation
+## Usage
+
+To install Kissy, clone the repository and run:
 
 ```sh
-git clone https://github.com/mggpie/kissy && cd kissy && sudo make clean install
+git clone https://github.com/w23b07d28/kissy-terminal-emulator && cd kissy-terminal-emulator && sudo make clean install
 ```
 
-## Note
+## Disclaimer
 
-This project is no longer maintained.
+Please note that Kissy is not and will not be further developed, and it may not be suitable for use in production environments. The author takes no responsibility for any damages that may occur as a result of using this script. Use at your own risk.
 
 ## License
 
-MIT
+Kissy is released under the MIT License.
