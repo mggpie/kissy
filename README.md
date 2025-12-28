@@ -1,5 +1,7 @@
 # Kissy
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 ![Screenshot](https://i.postimg.cc/1RNFRP5F/kissy.jpg)
 
 ## About
